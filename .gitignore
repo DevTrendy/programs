@@ -1,0 +1,5 @@
+tasks.json
+*.exe
+*.ilk
+*.pdb
+*.obj
