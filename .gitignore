@@ -1,4 +1,13 @@
-tasks.json
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+.vscode/
 *.exe
 *.ilk
 *.pdb
